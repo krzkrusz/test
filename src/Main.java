@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("i co teraz");
 		int x;
 		double y;
+		float b;
 	}
 	
 }
